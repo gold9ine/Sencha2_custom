@@ -1,7 +1,7 @@
 Ext.define("HomeView", {
 	extend:"Ext.Panel",
 	config: {
-		title: "Home",
+		title: "",
 		style: "background-color: red; color:white;",
 		html: "homeView"
 	}
