@@ -1,7 +1,7 @@
 Ext.define("AboutView", {
 	extend:"Ext.Panel",
 	config: {
-		title: "About",
+		title: "어바웃",
 		style: "background-color: orange; color:white;",
 		html: "aboutView"
 	}
